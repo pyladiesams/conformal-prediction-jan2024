@@ -1,9 +1,9 @@
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
+# An introduction to conformal prediction
 ### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+During the workshop we will apply conformal prediction to (1) add a prediction interval to a point forecast and (2) calibrate a probabilistic forecast. 
 
 ## Requirements
 Do not forget to indicate Python version and any other tools
@@ -14,7 +14,7 @@ Do not forget to indicate Python version and any other tools
 * Start { TOOL } and navigate to the workshop folder
 
 ## Video record
-Re-watch [this YouTube stream](link)
+Re-watch [this YouTube stream](https://youtube.com/live/QFtdTyIWrz8)
 
 ## Credits
 This workshop was set up by @pyladiesams and {your github handler}
