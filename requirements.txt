@@ -1,0 +1,7 @@
+crepes ~= 0.6.1
+lightgbm ~= 4.1.0
+MAPIE ~= 0.6.4
+matplotlib ~= 3.6.0
+numpy ~= 1.23.0
+pandas ~= 1.5.0
+scikit-learn ~= 1.2.1
