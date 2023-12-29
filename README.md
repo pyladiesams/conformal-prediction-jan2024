@@ -2,9 +2,10 @@
 Done:
 1. Slides added
 2. Solution file for first part of workshop added
+3. Add solution file for second part of workshop
 
 To do:
-1. Add solution file for second part of workshop
+1. Improve based on feedback
 2. Create workshop notebooks after solution notebooks are final
 
 # An introduction to conformal prediction
