@@ -9,7 +9,8 @@ To do:
 2. Create workshop notebooks after solution notebooks are final
 
 # An introduction to conformal prediction
-### Presentation: [Conformal prediction](workshop/2024-01 PyLadies Amsterdam meet-up - Inge - Conformal prediction.pdf)
+### Presentation: [Conformal prediction](workshop/2024-01-PyLadies-Amsterdam-meet-up-Conformal-prediction.pdf)
+### Video of [presentation without workshop](https://www.youtube.com/watch?v=--WcrDRtrYk&t=1s)
 
 ## Workshop description
 During the workshop we will apply conformal prediction:
