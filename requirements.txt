@@ -5,3 +5,4 @@ matplotlib ~= 3.6.0
 numpy ~= 1.23.0
 pandas ~= 1.5.0
 scikit-learn ~= 1.2.1
+jupyterlab ~= 3.6.1
