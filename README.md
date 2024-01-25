@@ -1,7 +1,6 @@
 # An introduction to conformal prediction
 ### Presentation: [Conformal prediction](workshop/2024-01-PyLadies-Amsterdam-meet-up-Conformal-prediction.pdf)
-### [Video](https://www.youtube.com/watch?v=--WcrDRtrYk&t=1s) of the presentation: 
-### Leveraging conformal prediction for calibrated probabilistic time series forecasts - Inge van den Ende, PyData Eindhoven 2023
+### [Video](https://www.youtube.com/watch?v=--WcrDRtrYk&t=1s) of the presentation: Leveraging conformal prediction for calibrated probabilistic time series forecasts - Inge van den Ende, PyData Eindhoven 2023
 
 ## Workshop description
 During the workshop we will apply conformal prediction:
