@@ -4,8 +4,12 @@
 
 ## Workshop description
 During the workshop we will apply conformal prediction:
-1. add a prediction interval to a point forecast 
-2. calibrate a probabilistic forecast 
+1. Add a prediction interval to a point forecast 
+2. Calibrate a probabilistic forecast (conformalized quantile regression)
+
+Open the notebooks in the workshop folder to make the assignment. You can find the full code in the 
+notebooks in the solutions folder. Both notebooks show how implement that step in the `crepes` 
+package, the `MAPIE` package and manually by yourself. 
 
 ## Requirements
 Python >= 3.10 and experience with making a regression forecast. In the workshop we take a LightGBM
